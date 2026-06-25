@@ -27,8 +27,5 @@ An AI-powered Urban Heat Mitigation Decision Support System that utilizes satell
 Website :
 https://urban-heat-optimizer--anitaaru.replit.app
 
- Annimation Video :
- https://01f3f5dd-13eb-436a-acc4-0b63317a09d3-00-rqm15ocbua6h.sisko.replit.dev/urbanheat-video/
-
  ###Team 
  UNION GIANTS
