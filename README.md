@@ -35,4 +35,4 @@ https://urban-heat-optimizer--anitaaru.replit.app
 4) Yashika Singh :- UI mockups , visuals assents and diagrams.
 
  ###Team 
- UNION GIANTS
+ UNIONS GIANTS
